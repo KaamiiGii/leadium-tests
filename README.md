@@ -25,11 +25,12 @@ For reporting results of tests uses: *Allure2*.
 Video with failed test should be [here](https://github.com/KaamiiGii/leadium-tests/tree/master/source/apps/example/video)
 
 Test result should be [here](https://github.com/KaamiiGii/leadium-tests/blob/master/source/apps/example/build/allure-results/)
-```
-```
+
+
 ## Generating Allure Report
 
 - Download [Allure](https://github.com/allure-framework/allure2/releases)
 - For Allure report generating, we need to execute:
-
+```
 ./allure serve /path/to/project_dir/test/apps/module_name/build/allure-results
+```
