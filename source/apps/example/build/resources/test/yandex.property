@@ -1,0 +1,5 @@
+baseurl=https://market.yandex.ru/
+searchRequestMarket=monitor
+setMin=10000
+setMax=20000
+expectedResult=100000

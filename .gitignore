@@ -1,0 +1,15 @@
+#allure-report/
+#allure-results
+#build/
+#out/
+#video/
+.idea
+.allure
+.git
+#.gradle
+!/.gitignore
+#.xml
+#selenoid
+# Project exclude paths
+/.gradle/
+#/source/apps/example/build/

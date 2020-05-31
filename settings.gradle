@@ -1,0 +1,4 @@
+rootProject.name = 'leadium-examples'
+
+include 'example'
+project(':example').projectDir = file('source/apps/example')
