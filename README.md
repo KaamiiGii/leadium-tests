@@ -11,7 +11,7 @@ For reporting results of tests uses: *Allure2*.
 
 ## Description test
 - Go to Google
-- Do a search by random value (in Test market.yandex.ru)
+- Do a search by random value
 - Check that the search results are available
 - If the search did nothing, the test failed
 
@@ -31,4 +31,5 @@ Test result should be [here](https://github.com/KaamiiGii/leadium-tests/blob/mas
 
 - Download [Allure](https://github.com/allure-framework/allure2/releases)
 - For Allure report generating, we need to execute:
+
 ./allure serve /path/to/project_dir/test/apps/module_name/build/allure-results
